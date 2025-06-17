@@ -35,7 +35,8 @@ public class BookController {
                         <h1>Books</h1>
                         <ul>
                 """ +
-                bookList + 
+                bookList
+                +
                 """
                         </ul>
                     </body>
